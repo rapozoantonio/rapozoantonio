@@ -155,3 +155,125 @@ Senior Full-Stack Engineer with **4+ years building mission-critical government 
 ---
 
 ## 🏆 Track Record
+```
+💰 $30k+ SaaS Product Acquisition (Dec 2024)
+🏛️ 15+ State DOTs Serving 1000+ Daily Users
+💼 Led Teams: 9 people (Shopify), 4 people (Events), 2 people (FocusGuard)
+📈 40% Efficiency Gain Through AI Integration
+🎓 AWS 2x Certified + Pursuing Professional
+🌍 4 Years Remote-First Work (US/Brazil/Europe)
+🗣️ Multilingual: English (Fluent), Portuguese (Native), German (Professional), Spanish (Intermediate)
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Antonio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rapozoantonio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rapozoantonio&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rapozoantonio&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
+
+---
+
+## 💡 What I'm Looking For
+
+### Ideal Engagements:
+✅ **Product Companies** building software that matters at scale  
+✅ **Cloud-Native Architecture** - AWS, serverless, modern infrastructure  
+✅ **Technical Challenges** requiring full-stack + AI/LLM expertise  
+✅ **Remote-First Culture** with strong engineering practices  
+✅ **Regulated Industries** where government sector experience adds value  
+
+### Not Interested In:
+❌ Early-stage startups without revenue or funding  
+❌ Agencies doing client services only  
+❌ Non-technical management roles  
+❌ Part-time or <30 hours/week contracts  
+
+---
+
+## 🌍 Work Arrangements
+
+### ✅ C2C Contracting (Preferred) - Immediate Start
+
+**Why companies choose this:**
+- ✅ **No visa sponsorship required** - I work through established Brazilian entity
+- ✅ **Start within days** - no setup delays or legal complexity
+- ✅ **Proven model** - 4 years successfully contracting with US clients (Mayvue)
+- ✅ **Simplified hiring** - standard contractor agreement, straightforward invoicing
+- ✅ **Rate:** $70-90/hour (negotiable based on project scope and commitment)
+
+**My setup:**
+- Brazilian C2C entity established since 2022
+- 6% tax rate (vs 25-35% US taxes) = competitive rates for you
+- Invoice in USD, payment via wire transfer or PayPal
+- Available 30-40 billable hours/week
+
+### ✅ W2 Employment with H-1B Sponsorship
+
+**For exceptional long-term opportunities:**
+- Open to **US relocation** (SF Bay Area, NYC, Seattle, or remote)
+- Can **start C2C initially** while H-1B processes (no gap in productivity)
+- **Target compensation:** $120-150k+ annually
+- Looking for companies with established sponsorship processes
+- Willing to commit long-term to right company and mission
+
+---
+
+## 🎓 Education & Certifications
+
+**AWS Certifications:**
+- AWS Certified Solutions Architect - Associate
+- AWS Certified Developer - Associate
+- 🎯 Currently pursuing: **Solutions Architect Professional** (Target: Dec 2025)
+
+**Formal Education:**
+- **Machine Learning Certificate** - Stanford University (2021-2022)
+- **Engineer of Evaluations and Judicial Forensics** - Universidade Federal Fluminense (2018-2019)
+- **B.S. Mechanical Engineering** - CEFET/RJ (2012-2019)
+- **Exchange Program** - Technische Hochschule Deggendorf, Germany (2015-2016)
+
+---
+
+## 📫 Let's Connect
+
+**Available for start: December 2025**
+
+I respond to all serious inquiries within 24 hours. Let's discuss how I can contribute to your team.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rapozoantonio)
+[![Email](https://img.shields.io/badge/Email-rapozoantonio@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rapozoantonio@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rapozoantonio.github.io/)
+[![Resume](https://img.shields.io/badge/Resume-Download-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://rapozoantonio.github.io/resume)
+
+**📍 Location:** Barcelona, Spain (Brazilian tax resident)  
+**🏢 Business:** C2C through Brazilian entity since 2022  
+**⏰ Availability:** Flexible across US time zones
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Philosophy
+
+**"I turn real problems into shipped products with measurable impact"**
+
+*Not just code - I've led teams, shipped to production, generated revenue, and served thousands of users in production environments. I solve problems end-to-end.*
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=rapozoantonio&color=2D9CDB&style=for-the-badge)
+
+⭐ **Actively seeking opportunities** | 🤝 **Let's build something exceptional together**
+
+</div>
