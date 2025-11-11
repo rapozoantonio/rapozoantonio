@@ -133,12 +133,10 @@ Senior Full-Stack Engineer with **4+ years building mission-critical government 
 
 ### ✅ C2C Contracting (Preferred) - Immediate Start
 
-**Why companies choose this:**
 - ✅ **No visa sponsorship required** - I work through established Brazilian entity
 - ✅ **Start within days** - no setup delays or legal complexity
-- ✅ **Proven model** - 4 years successfully contracting with US clients (Mayvue)
+- ✅ **Proven model** - 4 years successfully contracting with US clients 
 - ✅ **Simplified hiring** - standard contractor agreement, straightforward invoicing
-- ✅ **Rate:** $70-90/hour (negotiable based on project scope and commitment)
 
 **My setup:**
 - Brazilian C2C entity established since 2022
