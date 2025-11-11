@@ -26,9 +26,10 @@ Senior Full-Stack Engineer with **4+ years building mission-critical government 
 ### 🚀 What I Bring
 ✅ **Government-Proven Engineering** - 4 years navigating strict compliance in regulated environments  
 ✅ **Full Product Ownership** - Led teams shipping SaaS products generating real revenue  
-✅ **AI/LLM Integration** - Production experience with OpenAI, LangChain 
+✅ **AI/LLM Integration** - Production experience with OpenAI, LangChain  
 ✅ **Remote-First Expert** - 4 years distributed collaboration across time zones  
 ✅ **AWS Certified** - 2x certified, pursuing Solutions Architect Professional
+
 
 ---
 
@@ -48,7 +49,6 @@ Senior Full-Stack Engineer with **4+ years building mission-critical government 
 ![.NET Core](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
