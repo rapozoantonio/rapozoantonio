@@ -1,37 +1,103 @@
 <div align="center">
 
-# Antonio Candido Rapozo
+# Antonio Rapozo
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2D9CDB&center=true&vCenter=true&width=700&lines=Senior+Full-Stack+Engineer;Available+for+C2C+%7C+W2+with+Sponsorship;Vue.js+%2B+.NET+%2B+AWS+Specialist;Government+Infrastructure+Expert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2D9CDB&center=true&vCenter=true&width=750&lines=Senior+Full-Stack+Engineer;4%2B+Years+Government+Infrastructure;Available+C2C+%7C+W2+with+Sponsorship;Vue.js+%2B+.NET+%2B+AWS+%2B+AI+Integration)](https://git.io/typing-svg)
 
-**🟢 Available for Immediate C2C Engagement | Open to W2 with H-1B Sponsorship**
+**🟢 Available for Immediate Start | December 2025**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rapozoantonio)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rapozoantonio.github.io/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rapozoantonio@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://rapozoantonio.github.io/resume)
 
 </div>
 
 ---
 
-## 🎯 Quick Summary
+## 🎯 About Me
 
-Senior Full-Stack Engineer with **4+ years** building **mission-critical government infrastructure** serving **15+ US State DOTs**, **1,000+ daily users**, and managing **$500M+ in infrastructure data**. Specialized in building scalable, compliant applications for regulated environments.
+Senior Full-Stack Engineer with **4+ years building mission-critical government infrastructure** serving **15+ US State DOTs**, **1,000+ daily users**, and processing **$500M+ in infrastructure spending**. Proven track record shipping products from concept to production—including a **$30k+ SaaS acquisition** and multiple live applications.
 
-**💼 C2C Available:** Work through established Brazilian business entity - **no visa sponsorship required**, immediate start  
-**🇺🇸 W2 Open:** Willing to relocate to US with H-1B sponsorship for exceptional opportunities
+### 💼 Work Arrangement
+- **C2C Remote (Preferred):** Immediate start through established Brazilian entity - no visa sponsorship needed
+- **W2 with Sponsorship:** Open to exceptional long-term opportunities with US relocation
+- **Rate Range:** $70-90/hour C2C | $120-150k+ W2
+
+### 🚀 What I Bring
+✅ **Government-Proven Engineering** - 4 years navigating strict compliance in regulated environments  
+✅ **Full Product Ownership** - Led teams shipping SaaS products generating real revenue  
+✅ **AI/LLM Integration** - Production experience with OpenAI, LangChain reducing manual work 40%  
+✅ **Remote-First Expert** - 4 years distributed collaboration across time zones  
+✅ **AWS Certified** - 2x certified, pursuing Solutions Architect Professional
 
 ---
 
-## 🚀 Core Expertise
+## 💼 Professional Impact
 
-### What I Deliver
-✅ **Full-Stack Architecture** - Vue.js/React frontends + C#/.NET backends at scale  
-✅ **Cloud Infrastructure** - AWS-certified solutions (2x certified, pursuing Professional)  
-✅ **Government/Regulated Sector** - 4 years navigating complex compliance requirements  
-✅ **AI Integration** - OpenAI, LangChain implementations reducing manual work 40%  
-✅ **Global Collaboration** - Remote work with distributed teams across time zones  
-✅ **Immediate Impact** - C2C structure enables start within days, not months
+### 🏛️ Government Infrastructure Systems (March 2022 - Nov 2025)
+**Mayvue Solutions** - Bridge Inspection & Asset Management Platform
+
+**The Scale:**
+- Serving **15+ State Departments of Transportation** across the US
+- Managing **$500M+ in annual infrastructure investment data**
+- Supporting **1,000+ daily users** (engineers, inspectors, administrators)
+- Processing critical safety inspections for public transportation infrastructure
+
+**Technical Achievements:**
+- Architected **Vue 3 Composition API** frontend with offline-first capabilities
+- Built **C#/.NET Core** backend processing millions of inspection records
+- Deployed **AWS cloud infrastructure** meeting government security compliance
+- Integrated **OpenAI API automation** reducing data entry time by **40%**
+- Optimized SQL Server queries handling complex multi-state regulatory requirements
+- Implemented real-time collaboration features for distributed field teams
+
+**The Challenge:** Government compliance + field usability + massive scale
+
+### 🛒 E-Commerce SaaS Product - $30k+ Acquisition
+**Cash-on-Delivery Shopify App** (Delivered December 2024)
+
+**The Problem:** Latin American merchants losing customers at checkout due to poor COD payment support in Shopify - critical for region where COD dominates e-commerce.
+
+**What I Did:**
+- **Led 9-person engineering team** (2 technical leads + 7 developers)
+- Architected full-stack Shopify app with regional payment processor integration
+- Built merchant dashboard for COD order management and tracking
+- Implemented webhook system for real-time order status updates
+- Deployed to production serving multiple high-volume merchants
+
+**The Outcome:** Acquired by 3 major e-commerce influencers for **$30,000+ USD** in December 2024
+
+**My Role:** Technical leadership, architecture, team coordination, client communication, product delivery
+
+### 🎉 Event Management Platform (Delivered March 2025)
+**High-End Event Production Dashboard for Brazilian Entertainment Industry**
+
+**The Origin:** COVID-19 devastated Rio's entertainment industry. Watched friends shut down due to manual processes, poor communication, and zero real-time profitability visibility.
+
+**What I Built:**
+- **Led 4-person team** building dual-platform system
+- Consumer app: AI-powered event discovery with curated listings
+- Producer dashboard: Real-time analytics, VIP guest management, instant profitability tracking
+- AI-assisted event planning and customer LTV tracking across events
+- Multi-role access control (producers, promoters, operations staff)
+
+**Current Status:** Delivered to Rio event agency with **54 team members enrolled**, pending production rollout
+
+**The Impact:** Producers now see profitability **during events**, not days later
+
+### 🎯 FocusGuard - AI-Powered Productivity Extension (July 2025)
+**Chrome Extension with 83 Active Users**
+
+**The Problem (My Own):** Managing 8 productivity apps was creating more work than actual productivity. 47 tabs open, context-switching constantly, busy but not productive.
+
+**What I Built:**
+- Led 2-person team building all-in-one productivity Chrome extension
+- Website blocking, goal/task tracking, integrated calendar, world clock
+- **AI goal-alignment analysis** - checks if daily work actually moves toward stated goals
+- Published on Chrome Web Store with freemium model
+
+**The Differentiator:** AI tells you when you're busy but not productive (uncomfortable, but honest)
 
 ---
 
@@ -42,156 +108,50 @@ Senior Full-Stack Engineer with **4+ years** building **mission-critical governm
 ### Frontend
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Backend
+### Backend & APIs
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Database & Tools
+### Databases
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### AI & Automation
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 
 </div>
 
 ---
 
-## 💼 Notable Impact & Experience
-
-### 🏛️ Government Infrastructure Systems (2022-2025)
-**Bridge Management & Inspection Platform** - US State DOT infrastructure software
-
-**Scale & Impact:**
-- Serving **15+ State Departments of Transportation**
-- Managing **$500M+ in infrastructure data**
-- Supporting **1,000+ daily users** (inspectors, engineers, administrators)
-- Processing critical safety inspections for public infrastructure
-
-**Technical Achievements:**
-- Built **Vue 3 Composition API** frontend with offline-first architecture
-- Developed **C#/.NET Core** backend with complex data synchronization
-- Implemented **AWS cloud infrastructure** for government compliance
-- Integrated **OpenAI API** automation reducing data entry time by **40%**
-- Optimized SQL Server queries handling millions of inspection records
-- Architected real-time collaboration features for distributed teams
-
-**Environment:**
-- Strict government security and compliance requirements
-- Multi-state deployment with varying regulatory needs
-- High-stakes data accuracy for public safety decisions
-
-### 🚀 E-Commerce SaaS Product
-**Shopify Application** - Led development team for successful product launch
-
-- Generated **$30k+ revenue** post-launch
-- Full-stack implementation from concept to production
-- Team leadership and technical architecture decisions
-- Scalable multi-tenant SaaS architecture
-
-### 🎯 Micro-SaaS Products
-**FocusGuard Chrome Extension** - Productivity tool with AI analysis
-- Vue.js frontend with Firebase backend
-- Google OAuth authentication implementation
-- AI-powered goal-task alignment features
-
-**AI Content Automation** - n8n workflow systems
-- Multi-platform social media automation (Twitter, LinkedIn, Instagram)
-- Google Gemini AI API integration
-- Automated video content generation with Veo 3 API
-
----
-
-## 🏆 Certifications & Continuous Learning
-
-- 🎓 **AWS Certified Solutions Architect - Associate**
-- 🎓 **AWS Certified Developer - Associate**
-- 🎯 Currently pursuing: **AWS Solutions Architect - Professional** (Dec 2025)
-
----
-
-## 📊 GitHub Activity
+## 🎯 Featured Projects
 
 <div align="center">
 
-![Antonio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rapozoantonio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rapozoantonio&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rapozoantonio&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
----
-
-## 🌍 Work Model & Availability
-
-### ✅ C2C Contracting (Preferred)
-- **Immediate availability** through established Brazilian business entity
-- **No visa sponsorship required** - simplified hiring process
-- **Start within days** - no setup delays
-- **Proven model** - 4 years successfully contracting with US clients
-- **Rate range:** $70-90/hour (negotiable based on project scope)
-
-### ✅ W2 Employment with Sponsorship
-- Open to **H-1B sponsorship** for exceptional long-term opportunities
-- Willing to **relocate to US** (SF Bay Area, NYC, Seattle, or remote)
-- Can start **C2C initially** while sponsorship processes, then convert to W2
-- **Target compensation:** $120-150k+ annually
-
-### 🌐 Remote Work Experience
-- **4 years** working with distributed US-based teams
-- **Proven communication** across time zones (US East Coast, Brazil, Europe)
-- **Multilingual:** English (fluent), Portuguese (native), German (professional), Spanish (intermediate)
-- **Self-managed** and deadline-driven
-
----
-
-## 🎯 What I'm Looking For
-
-Ideal engagements involve:
-- **Cloud-native architecture** - AWS, serverless, modern infrastructure
-- **Product companies** building impactful software at scale
-- **Technical challenges** requiring full-stack expertise
-- **Remote-first culture** with strong engineering practices
-- **Regulated industries** where my government sector experience adds value
-- **Modern tech stacks** - Vue.js, React, .NET Core, TypeScript
-
----
-
-## 📫 Let's Connect
-
-**Available for start: December 2025**
-
-I respond to all serious inquiries within 24 hours. Let's discuss how I can contribute to your team.
-
-- 💼 **LinkedIn:** [linkedin.com/in/rapozoantonio](https://linkedin.com/in/rapozoantonio)
-- 🌐 **Portfolio:** [rapozoantonio.github.io](https://rapozoantonio.github.io/)
-- 📧 **Email:** rapozoantonio@gmail.com
-- 📍 **Location:** Barcelona, Spain | Open to US relocation
-- 🏢 **Business:** C2C through Brazilian entity (6% tax rate, immediate invoicing)
-
----
-
-<div align="center">
-
-### 💡 Why Work With Me
-
-**Government-Proven** · **Scale-Tested** · **Compliance-Aware** · **Immediately Available**
-
-*Building elegant solutions for complex problems with a solution-driven mindset*
-
-![Profile Views](https://komarev.com/ghpvc/?username=rapozoantonio&color=2D9CDB&style=for-the-badge)
-
----
-
-⭐ **Open to opportunities** | 🤝 **Let's build something great together**
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| **[Cash-on-Delivery Shopify App](https://apps.shopify.com)** | Led 9-person team building COD payment solution for Latin America | React, Shopify API, Heroku, AWS | ✅ Acquired $30k+ |
+| **[Event Management Platform](https://rapozoantonio.github.io/projects)** | Real-time event production dashboard with AI assistance | Vue.js, Firebase, OpenAI API | ✅ Deployed - 54 users |
+| **[FocusGuard](https://focusguard.app)** | AI-powered productivity Chrome extension | React, OpenAI API, Chrome APIs | 🚀 Live - 83 users |
+| **Government Bridge Systems** | 15+ State DOT infrastructure platform | Vue.js, C#/.NET, AWS, SQL Server | ✅ Production - 1000+ users |
 
 </div>
+
+---
+
+## 🏆 Track Record
