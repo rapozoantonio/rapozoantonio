@@ -26,7 +26,7 @@ Senior Full-Stack Engineer with **4+ years building mission-critical government 
 ### 🚀 What I Bring
 ✅ **Government-Proven Engineering** - 4 years navigating strict compliance in regulated environments  
 ✅ **Full Product Ownership** - Led teams shipping SaaS products generating real revenue  
-✅ **AI/LLM Integration** - Production experience with OpenAI, LangChain
+✅ **AI/LLM Integration** - Production experience with OpenAI, LangChain 
 ✅ **Remote-First Expert** - 4 years distributed collaboration across time zones  
 ✅ **AWS Certified** - 2x certified, pursuing Solutions Architect Professional
 
