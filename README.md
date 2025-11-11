@@ -22,12 +22,11 @@ Senior Full-Stack Engineer with **4+ years building mission-critical government 
 ### 💼 Work Arrangement
 - **C2C Remote (Preferred):** Immediate start through established Brazilian entity - no visa sponsorship needed
 - **W2 with Sponsorship:** Open to exceptional long-term opportunities with US relocation
-- **Rate Range:** $70-90/hour C2C | $120-150k+ W2
 
 ### 🚀 What I Bring
 ✅ **Government-Proven Engineering** - 4 years navigating strict compliance in regulated environments  
 ✅ **Full Product Ownership** - Led teams shipping SaaS products generating real revenue  
-✅ **AI/LLM Integration** - Production experience with OpenAI, LangChain reducing manual work 40%  
+✅ **AI/LLM Integration** - Production experience with OpenAI, LangChain
 ✅ **Remote-First Expert** - 4 years distributed collaboration across time zones  
 ✅ **AWS Certified** - 2x certified, pursuing Solutions Architect Professional
 
@@ -77,10 +76,11 @@ Senior Full-Stack Engineer with **4+ years building mission-critical government 
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
+| **Government Bridge Systems** | 15+ State DOT infrastructure platform | Vue.js, C#/.NET, AWS, SQL Server | ✅ Production - 1000+ users |
 | **[Cash-on-Delivery Shopify App](https://apps.shopify.com)** | Led 9-person team building COD payment solution for Latin America | React, Shopify API, Heroku, AWS | ✅ Acquired $30k+ |
 | **[Event Management Platform](https://rapozoantonio.github.io/projects)** | Real-time event production dashboard with AI assistance | Vue.js, Firebase, OpenAI API | ✅ Deployed - 54 users |
 | **[FocusGuard](https://focusguard.app)** | AI-powered productivity Chrome extension | React, OpenAI API, Chrome APIs | 🚀 Live - 83 users |
-| **Government Bridge Systems** | 15+ State DOT infrastructure platform | Vue.js, C#/.NET, AWS, SQL Server | ✅ Production - 1000+ users |
+
 
 </div>
 
@@ -91,7 +91,6 @@ Senior Full-Stack Engineer with **4+ years building mission-critical government 
 💰 $30k+ SaaS Product Acquisition (Dec 2024)
 🏛️ 15+ State DOTs Serving 1000+ Daily Users
 💼 Led Teams: 9 people (Shopify), 4 people (Events), 2 people (FocusGuard)
-📈 40% Efficiency Gain Through AI Integration
 🎓 AWS 2x Certified + Pursuing Professional
 🌍 4 Years Remote-First Work (US/Brazil/Europe)
 🗣️ Multilingual: English (Fluent), Portuguese (Native), German (Professional), Spanish (Intermediate)
@@ -143,16 +142,12 @@ Senior Full-Stack Engineer with **4+ years building mission-critical government 
 
 **My setup:**
 - Brazilian C2C entity established since 2022
-- 6% tax rate (vs 25-35% US taxes) = competitive rates for you
-- Invoice in USD, payment via wire transfer or PayPal
-- Available 30-40 billable hours/week
+- Available 30-50 billable hours/week
 
 ### ✅ W2 Employment with H-1B Sponsorship
 
-**For exceptional long-term opportunities:**
 - Open to **US relocation** (SF Bay Area, NYC, Seattle, or remote)
 - Can **start C2C initially** while H-1B processes (no gap in productivity)
-- **Target compensation:** $120-150k+ annually
 - Looking for companies with established sponsorship processes
 - Willing to commit long-term to right company and mission
 
