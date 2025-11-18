@@ -2,7 +2,7 @@
 
 # Antonio Rapozo
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2D9CDB&center=true&vCenter=true&width=750&lines=Senior+Full-Stack+Engineer;4%2B+Years+Government+Infrastructure;Building+AI+Memory+Infrastructure;Vue.js+%2B+.NET+%2B+AWS+%2B+LLMs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2D9CDB&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+Engineer;4%2B+Years+Government+Infrastructure;Building+AI+Memory+Infrastructure;Vue.js+%E2%80%A2+.NET+%E2%80%A2+AWS+%E2%80%A2+LLMs)](https://git.io/typing-svg)
 
 **🟢 Available for Immediate Start | Remote Opportunities**
 
